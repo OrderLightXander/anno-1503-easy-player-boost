@@ -1,0 +1,5 @@
+Anlagen.*
+BGruppen.dat
+Original_*
+__pycache__/
+*.py[cod]
